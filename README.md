@@ -3,4 +3,4 @@
 ## group member:
 - Yang Ye (YAY140@pitt.edu)
 - Ivan Liu
-- Ruoyu Wu
+- Ruoyu Wu (RUW115@pitt.edu)
