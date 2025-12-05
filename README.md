@@ -1,5 +1,6 @@
 # Final-Project-Description
 - Each member's notebook and datasets are in the folder
+- This is a data analysis project that aims to identify the best neighborhood in Pittsburgh. We evaluate the data through three key aspects: Safety, Food, and Education, which we consider the most important factors for overall living happiness. In the end, we conclude that South Squirrel Hill is the best neighborhood.
 ## Team name:   
 ## Group 12:
 - Yang Ye (YAY140@pitt.edu)
